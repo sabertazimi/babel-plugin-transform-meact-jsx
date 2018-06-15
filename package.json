@@ -1,0 +1,23 @@
+{
+  "name": "babel-plugin-transform-meact-jsx",
+  "version": "0.1.0",
+  "description": "Convert JSX to function calls",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sabertazimi/babel-plugin-transform-meact-jsx.git"
+  },
+  "keywords": [
+    "babel",
+    "babel-plugin"
+  ],
+  "author": "sabertazimi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sabertazimi/babel-plugin-transform-meact-jsx/issues"
+  },
+  "homepage": "https://github.com/sabertazimi/babel-plugin-transform-meact-jsx#readme"
+}
