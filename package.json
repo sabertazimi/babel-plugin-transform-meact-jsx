@@ -1,6 +1,6 @@
 {
   "name": "babel-plugin-transform-meact-jsx",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Convert JSX to function calls",
   "main": "index.js",
   "scripts": {
